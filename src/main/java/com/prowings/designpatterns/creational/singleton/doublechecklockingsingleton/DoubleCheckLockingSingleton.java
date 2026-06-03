@@ -1,4 +1,4 @@
-package com.prowings.designpatterns.creational.doublechecklockingsingleton;
+package com.prowings.designpatterns.creational.singleton.doublechecklockingsingleton;
 
 /*
 Advantages:

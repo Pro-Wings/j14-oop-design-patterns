@@ -1,4 +1,4 @@
-package com.prowings.designpatterns.creational.lazysingleton;
+package com.prowings.designpatterns.creational.singleton.lazysingleton;
 
 /*
  * Lazy Initialization Singleton Pattern

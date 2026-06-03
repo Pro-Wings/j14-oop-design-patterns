@@ -1,4 +1,4 @@
-package com.prowings.designpatterns.creational.threadsafesingleton;
+package com.prowings.designpatterns.creational.singleton.threadsafesingleton;
 
 /*Advantages:
  * 1. Thread-safe: The synchronized keyword ensures that only one thread can access the getInstance method

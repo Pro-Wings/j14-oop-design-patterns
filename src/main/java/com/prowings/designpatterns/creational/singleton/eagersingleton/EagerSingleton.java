@@ -1,4 +1,4 @@
-package com.prowings.designpatterns.creational.eagersingleton;
+package com.prowings.designpatterns.creational.singleton.eagersingleton;
 
 import java.io.Serializable;
 

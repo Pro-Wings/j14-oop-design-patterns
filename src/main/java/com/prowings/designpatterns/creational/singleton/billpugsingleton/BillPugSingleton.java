@@ -1,4 +1,4 @@
-package com.prowings.designpatterns.creational.billpugsingleton;
+package com.prowings.designpatterns.creational.singleton.billpugsingleton;
 
 /*
 SingletonHelper is not loaded when BillPughSingleton is loaded.

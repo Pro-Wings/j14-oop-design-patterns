@@ -1,6 +1,6 @@
 package com.prowings.designpatterns.breaksingleton;
 
-import com.prowings.designpatterns.creational.eagersingleton.EagerSingleton;
+import com.prowings.designpatterns.creational.singleton.eagersingleton.EagerSingleton;
 
 import java.io.*;
 

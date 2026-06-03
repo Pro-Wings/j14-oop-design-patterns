@@ -1,6 +1,4 @@
-package com.prowings.designpatterns.creational.com.prowings.designpatterns.creational.staticblocksingleton;
-
-import com.prowings.designpatterns.creational.eagersingleton.EagerSingleton;
+package com.prowings.designpatterns.creational.singleton.com.prowings.designpatterns.creational.staticblocksingleton;
 
 /*
  * Static Block Singleton Pattern
